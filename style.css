@@ -10,7 +10,7 @@ body {
     justify-content: center;
 }
 
-h2, p {
+h2{
     color: white;
 }
 img {
@@ -19,5 +19,5 @@ img {
 button {
    
     margin: 5px;
-    
+    cursor: pointer;
 }
