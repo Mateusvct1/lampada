@@ -1,0 +1,23 @@
+
+body {
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+}
+
+h2, p {
+    color: white;
+}
+img {
+    height: 200px;
+}
+button {
+   
+    margin: 5px;
+    
+}
