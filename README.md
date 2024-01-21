@@ -1,3 +1,5 @@
-Arquivo para prática de html, css, JavaScript
+# Projeto acender e apagar uma Lampada
 
-Simulação de apagar e acender uma lampada.
+Arquivo para práticar html, css, e JavaScript.
+
+
