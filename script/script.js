@@ -4,7 +4,7 @@ let lampada = document.getElementById('lampada')
 
 function Ligada() {
 
-    lampada.src = './imagens/lampadaAcessa.jpg';
+    lampada.src = 'imagens/lampadaAcessa.jpg';
 
 }
 lampadaLigada.addEventListener('click', Ligada);
