@@ -1,4 +1,7 @@
-
+.container{
+    max-width: 1280px;
+    margin: 0px auto;
+}
 body {
     background-color: black;
     align-items: center;
@@ -12,6 +15,8 @@ body {
 
 h2{
     color: white;
+    font-size: 1.5rem;
+    
 }
 img {
     height: 200px;
@@ -20,4 +25,7 @@ button {
    
     margin: 5px;
     cursor: pointer;
+
 }
+
+
