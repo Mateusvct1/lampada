@@ -1,25 +1,38 @@
+.containerPrincipal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
 .container{
-    max-width: 1280px;
-    margin: 0px auto;
+      
+    max-width: 1280px;   
+    margin: 0 auto;
+    display: grid;
+    
+    
 }
 body {
     background-color: black;
-    align-items: center;
+    margin: 0;
+
+}
+header{
     text-align: center;
     display: flex;
-    flex-direction: column;
-    width: 100vw;
-    height: 100vh;
-    justify-content: center;
+    flex-wrap: wrap;
 }
 
 h2{
     color: white;
     font-size: 1.5rem;
-    
+    padding: 8px;
 }
+
 img {
     height: 200px;
+    max-width: 100%;
 }
 button {
    
@@ -27,5 +40,12 @@ button {
     cursor: pointer;
 
 }
-
-
+.divButton{
+    display: flex;
+    justify-content: center;
+}
+@media (max-width: 600px) {
+    img {
+        height: auto;
+    }
+    
