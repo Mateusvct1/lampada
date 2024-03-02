@@ -50,6 +50,7 @@ button {
     &:active{
         background-color: #DCDCDC;
         transform: translate(1.10);
+        box-shadow: 5px 5px 10px 0px rgba(63, 62, 62, 0.75);
     }
 
 }
